@@ -4,7 +4,8 @@ Nesse repositório está depositado alguns projetos de sql que fizer.
 
 1- Rede Social
 * Esse projeto se trata de uma rede social, onde um usuário pode ter amigos, fazer publicações, entrar em grupos e etc.
-
+2- Comercio
+* Esse projeto se trata de um comercio, onde um usuário pode fazer compras
 
 ## Meus contatos
 <div> 
